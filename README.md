@@ -1,2 +1,2 @@
 # Webber- Randomized Blocks Of Code.
-(Relaxation Log)
+(Coding Solutions for different Scenarios--including mini proj.)
